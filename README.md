@@ -1,2 +1,2 @@
 # my-site
-HTML text for my website
+HTML markup for my website
