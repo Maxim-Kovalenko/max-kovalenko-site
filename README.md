@@ -1,2 +1,2 @@
 # my-site
-HTML text and Python code for my website
+HTML text for my website
