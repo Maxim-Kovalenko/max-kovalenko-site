@@ -1,2 +1,2 @@
 # my-site
-HTML markup for my website
+HTML markup and CSS stylesheet for my website
