@@ -4,13 +4,28 @@
     font-family: Verdana;
     color: #2c4117;
 }
-.hevchenko{ 
+.shevchenko{ 
 	margin-top: 50px; 
 	margin-right: 1500px;
 	text-align: center;
 }
-.left_about{
+.left_about_she{
 	text-align: center;
-	margin-bottom: 100px;
-	margin-right: 1200px;
+	/*margin-bottom: 500px;*/
+	margin-right: 1500px;
+}
+.left_about1_she{
+	text-align: left;
+	/*margin-top: 15px;*/
+}
+
+.ukrainka{
+	/*margin-top: 50px;*/
+	margin-left: 1500px; 
+	text-align: center;
+
+}
+
+.right_about_les{
+	margin-left: 1500px;
 }
